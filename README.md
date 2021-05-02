@@ -15,7 +15,16 @@
 ### How To Run
 
 - Open command prompt and switch to this folder
-- py lyrics_extractor.py
+- Install requirements (Skip if already done)
+
+  ```
+  py -m pip install -r requirements.txt
+  ```
+
+- Run the script
+  ```
+  py lyrics_extractor.py
+  ```
 - Enter song name
 - Press Enter and wait for result
 
