@@ -14,8 +14,14 @@
 
 ### How To Run
 
+- Clone the repository
+
+  ```
+  git clone https://github.com/ayushxx7/LyricsExtraction
+  ```
+
 - Open command prompt and switch to this folder
-- Install requirements (Skip if already done)
+- Install requirements
 
   ```
   py -m pip install -r requirements.txt
